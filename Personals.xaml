@@ -132,6 +132,7 @@
             <Image x:Name="photoImage" Grid.Column="1" HorizontalAlignment="Left" Margin="3" Grid.Row="0" Source="{Binding photo}" VerticalAlignment="Center" />
         </Grid>
         <DataGrid
+
             x:Name="Gr1"
             HorizontalAlignment="Left"
             Height="206" Margin="14,203,0,0"
