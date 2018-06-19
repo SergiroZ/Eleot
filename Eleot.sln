@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eleot", "Eleot.csproj", "{927D8939-726A-4A99-A2B6-0084C59F9A40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{927D8939-726A-4A99-A2B6-0084C59F9A40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{927D8939-726A-4A99-A2B6-0084C59F9A40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{927D8939-726A-4A99-A2B6-0084C59F9A40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{927D8939-726A-4A99-A2B6-0084C59F9A40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE7CDD2A-C800-42E7-99B6-F2FE6ED5A1B3}
+	EndGlobalSection
+EndGlobal

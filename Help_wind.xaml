@@ -1,0 +1,27 @@
+﻿<Window x:Name="Help_wind"
+        x:Class="Eleot.Win_Help"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Eleot"
+        mc:Ignorable="d"
+        Title="Справка"
+        Height="300"
+        Width="500"
+        Background="#FFD2DED8"
+        Style="{StaticResource VS2012WindowStyle}"
+        WindowStartupLocation="CenterScreen"
+        MinWidth="299"
+        MinHeight="300"
+        ResizeMode="NoResize"
+        Icon="help.png"
+        MaxWidth="500"
+        MaxHeight="300"
+        HorizontalContentAlignment="Stretch">
+    <Grid>
+        <TextBox MaxLength="250"
+                 TextChanged="TextBox_TextChanged"
+                 Background="WhiteSmoke">s</TextBox>
+    </Grid>
+</Window>
